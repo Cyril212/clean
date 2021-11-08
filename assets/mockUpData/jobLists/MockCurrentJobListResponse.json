@@ -1,0 +1,142 @@
+{
+  "currentJobList": [
+    {
+      "id": 5,
+      "serviceName": "R Premadasa Stadium",
+      "jobStatus": 2,
+      "description": "While the entire set is equipped (with the Holy Band and either the Vile Blade)",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 2
+      },
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 5,
+      "serviceName": "The Address Villa",
+      "jobStatus": 1,
+      "description": "Leading onto a balcony with garden views, the villa consists of 5 bedrooms and a fully equipped kitchen. A flat-screen TV is available.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 1
+      },
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 5,
+      "serviceName": "The A4 – Space for Contemporary Culture",
+      "jobStatus": 1,
+      "description": "Leading onto a balcony with garden views, the villa consists of 5 bedrooms and a fully equipped kitchen. A flat-screen TV is available.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 1
+      },
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 5,
+      "serviceName": "The Address Villa",
+      "jobStatus": 1,
+      "description": "Leading onto a balcony with garden views, the villa consists of 5 bedrooms and a fully equipped kitchen. A flat-screen TV is available.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 1
+      },
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 5,
+      "serviceName": "The Arachaeological Museum",
+      "jobStatus": 1,
+      "description": "Leading onto a balcony with garden views, the villa consists of 5 bedrooms and a fully equipped kitchen. A flat-screen TV is available.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 1
+      },
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 5,
+      "serviceName": "The Gallery Cit",
+      "jobStatus": 1,
+      "description": "Leading onto a balcony with garden views, the villa consists of 5 bedrooms and a fully equipped kitchen. A flat-screen TV is available.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 1
+      },
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    }
+  ]
+}

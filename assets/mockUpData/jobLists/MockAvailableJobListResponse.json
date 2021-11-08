@@ -1,0 +1,292 @@
+{
+  "availableJobList": [
+    {
+      "id": 5,
+      "serviceName": "Infinite Vile Heights",
+      "jobStatus": 0,
+      "jobType": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu pretium sed at id tortor quis sit commodo pellentesque.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 0
+      },
+      "contacts": [
+        {
+          "name": "Miroslav Purtik",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        },
+        {
+          "name": "Monika Fenixova",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        }
+      ],
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 6,
+      "serviceName": "City history museum",
+      "jobStatus": 0,
+      "jobType": 1,
+      "description": "Consectetur adipiscing elit. Eu pretium sed at id tortor quis sit commodo pellentesque.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 0
+      },
+      "contacts": [
+        {
+          "name": "Miroslav Purtik",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        },
+        {
+          "name": "Monika Fenixova",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        }
+      ],
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 6,
+      "serviceName": "The Museum of Education and Pedagogy",
+      "jobStatus": 0,
+      "jobType": 1,
+      "description": "Consectetur adipiscing elit. Eu pretium sed at id tortor quis sit commodo pellentesque.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 0
+      },
+      "contacts": [
+        {
+          "name": "Miroslav Purtik",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        },
+        {
+          "name": "Monika Fenixova",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        }
+      ],
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 6,
+      "serviceName": "The Danubiana Meulensteen Art Museum",
+      "jobStatus": 0,
+      "jobType": 1,
+      "description": "Consectetur adipiscing elit. Eu pretium sed at id tortor quis sit commodo pellentesque.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 0
+      },
+      "contacts": [
+        {
+          "name": "Miroslav Purtik",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        },
+        {
+          "name": "Monika Fenixova",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        }
+      ],
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 6,
+      "serviceName": "The Heydukova Street Synagogue",
+      "jobStatus": 0,
+      "jobType": 0,
+      "description": "Consectetur adipiscing elit. Eu pretium sed at id tortor quis sit commodo pellentesque.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 0
+      },
+      "contacts": [
+        {
+          "name": "Miroslav Purtik",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        },
+        {
+          "name": "Monika Fenixova",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        }
+      ],
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 5,
+      "serviceName": "Infinite Vile Heights",
+      "jobStatus": 0,
+      "jobType": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu pretium sed at id tortor quis sit commodo pellentesque.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 48.303889,
+            "long": 18.089517
+          }
+        },
+        "placeType": 0
+      },
+      "contacts": [
+        {
+          "name": "Miroslav Purtik",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        },
+        {
+          "name": "Monika Fenixova",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        }
+      ],
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 5,
+      "serviceName": "Kern House",
+      "jobStatus": 0,
+      "jobType": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu pretium sed at id tortor quis sit commodo pellentesque.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 49.08800474101787,
+            "long": 22.565771641808908
+          }
+        },
+        "placeType": 0
+      },
+      "contacts": [
+        {
+          "name": "Miroslav Purtik",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        },
+        {
+          "name": "Monika Fenixova",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        }
+      ],
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    },
+    {
+      "id": 5,
+      "serviceName": "The Address Villa enjoys a location in Colombo",
+      "jobStatus": 0,
+      "jobType": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu pretium sed at id tortor quis sit commodo pellentesque.",
+      "place": {
+        "id": 5,
+        "address": {
+          "id": 0,
+          "fullAddress": "Church Street Road, Michigan",
+          "coordinates": {
+            "id": 0,
+            "lat": 49.08800474101787,
+            "long": 22.565771641808908
+          }
+        },
+        "placeType": 0
+      },
+      "contacts": [
+        {
+          "name": "Miroslav Purtik",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        },
+        {
+          "name": "Monika Fenixova",
+          "label": "Podpora",
+          "phone": "+421 094 944 554"
+        }
+      ],
+      "note": "",
+      "startDate": "2020-06-07 10:00:00",
+      "endDate": "2020-06-07 12:00:00",
+      "createDate": "2020-06-07 08:00:00"
+    }
+  ]
+}
